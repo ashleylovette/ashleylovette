@@ -11,7 +11,7 @@ I'm an Angular Front-End Developer based out of southeastern Missouri.
 
 🌎 I'm based in the small town of Poplar Bluff, Missouri, but love to travel!
 
-🌱 Self-proclaimed life-long student, always in search of personal & professional development
+🌱 Self-proclaimed, life-long student; always in search of personal & professional development
 
 🤖 HTML, CSS, JavaScript, TypeScript, Angular, Firebase, & Node.js
 
