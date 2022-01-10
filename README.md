@@ -15,7 +15,7 @@ I'm an Angular Front-End Developer based out of southeastern Missouri.
 
 🤖 HTML, CSS, JavaScript, TypeScript, Angular, Firebase, & Node.js
 
-👀 Searching for a company that values growth, communication, teammwork, and the willingness to learn.
+👀 Searching for a company that values growth, communication, teammwork, and the desire to learn.
 
 💡 Fun fact: I enjoy playing and writing music🎹 and built my first app **Progression Wizard** for my songwriting passion!
 
