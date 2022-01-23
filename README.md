@@ -25,3 +25,5 @@ I'm an Angular Front-End Developer based out of southeastern Missouri.
 📧 **E-Mail:** ashleylovette15@gmail.com
 
 📲 **LinkedIn:** https://www.linkedin.com/in/ashley-lovette-aa4983224/
+
+👩‍💻 **Portfolio** https://ashleylovette.dev/ 
