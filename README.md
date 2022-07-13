@@ -2,7 +2,7 @@
 # Hey there👋 I'm Ashley!
 
 
-I'm an Angular Front-End Developer based out of southeastern Missouri.
+I'm a full-stack developer based out of southeastern Missouri.
 
 
 
@@ -13,7 +13,7 @@ I'm an Angular Front-End Developer based out of southeastern Missouri.
 
 🌱 Self-proclaimed, life-long student; always in search of personal & professional development
 
-🤖 HTML, CSS, JavaScript, TypeScript, Angular, Firebase, & Node.js
+🤖 HTML, CSS, JavaScript, TypeScript, Angular, Ruby on Rails, & Node.js
 
 👀 Searching for an employer that values growth, communication, teammwork, and the desire to learn.
 
