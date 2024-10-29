@@ -13,9 +13,7 @@ I'm a full-stack developer based out of southeastern Missouri.
 
 🌱 Self-proclaimed, life-long student; always in search of personal & professional development
 
-🤖 HTML, CSS, JavaScript, TypeScript, Angular, Ruby on Rails, & Node.js
-
-👀 Searching for an employer that values growth, communication, teammwork, and the desire to learn.
+🤖 TypeScript/Angular & Java/Springboot
 
 💡 Fun fact: I enjoy playing and writing music🎹 and built my first app **Progression Wizard** for my songwriting passion!
 
